@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [ALEKCEI GRETCKII](https://up.htmlacademy.ru/javascript/20/user/1206661).
-* Наставник: `Неизвестно`.
+* Наставник: [EUGENE FALLER](https://htmlacademy.ru/profile/id505933).
 
 ---
 
